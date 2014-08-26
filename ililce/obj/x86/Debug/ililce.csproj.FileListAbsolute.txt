@@ -1,0 +1,7 @@
+C:\Users\ora\Desktop\ililce\ililce\bin\Debug\ililce.exe
+C:\Users\ora\Desktop\ililce\ililce\bin\Debug\ililce.pdb
+C:\Users\ora\Desktop\ililce\ililce\obj\x86\Debug\ililce.Form1.resources
+C:\Users\ora\Desktop\ililce\ililce\obj\x86\Debug\ililce.Properties.Resources.resources
+C:\Users\ora\Desktop\ililce\ililce\obj\x86\Debug\ililce.csproj.GenerateResource.Cache
+C:\Users\ora\Desktop\ililce\ililce\obj\x86\Debug\ililce.exe
+C:\Users\ora\Desktop\ililce\ililce\obj\x86\Debug\ililce.pdb
